@@ -45,9 +45,12 @@ AI Landing Zone · Azure · GitHub Copilot · ~30 years building software
 
 ## Education
 
-- **Bachelor, Mathematics** — Estácio (2020 – 2024)
-- **Associate, Analysis & Development of Systems** — Cruzeiro do Sul (2016 – 2019)
-- Computer Science — Univ. Católica de Brasília (1995 – 1998) · UFSCar (1993 – 1994)
+- **Bachelor, Software Engineering** — Anhanguera Educacional (Aug 2022 – Dec 2025) · Grade 9.96
+- **Specialization, Guns, Ammunition & Ballistics** — Centro de Ensino Superior de Vitória — CESV (Jan 2024 – Jul 2025)
+- **Bachelor, Mathematics** — Estácio (2020 – Apr 2024) · Grade 9.57
+- **Associate, Photography** — Anhanguera Educacional (2022 – 2023) · Grade 10.0
+- **Associate, Analysis & Development of Systems** — Universidade Cruzeiro do Sul (2016 – 2019) · Grade 9.34
+- Computer Science — Universidade Católica de Brasília (1995 – 1998) · UFSCar (1993 – 1994)
 
 ## Connect
 

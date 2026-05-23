@@ -39,6 +39,25 @@ AI Landing Zone · Azure · GitHub Copilot · ~30 years building software
 `Azure AI Foundry` · `RAG` · `GitHub Copilot` · `Bot Framework` · `Service Bus`
 `C# / .NET 8` · `Java 21 / Quarkus` · `TypeScript` · `PowerShell`
 
+## Certifications
+
+**Active — Microsoft Azure**
+Solutions Architect Expert · Administrator Associate · Developer Associate · Network Engineer Associate
+
+**Active — GitHub**
+Foundations · Actions · Advanced Security · Administration · Copilot
+
+**Active — Linux Foundation**
+Kubernetes Fundamentals · Containers Fundamentals · Cloud Native Essentials · Open Source IT
+
+**Microsoft Fundamentals & Specialist** (lifetime credentials)
+Azure AI · Azure Data · Azure · M365 · Power Platform · Dynamics 365 (+ CRM) · Security, Compliance & Identity · Microsoft Certified Educator · Microsoft Specialist (Programming in C# · HTML5/JS/CSS3 · Azure Infrastructure) · MCP · MCTS / MCITP SharePoint 2010
+
+**Selected history**
+Microsoft Certified Trainer (multiple cycles since 2019) · DevOps Engineer Expert · AI Engineer Associate · Identity & Access Administrator · Azure Security Engineer · Azure Stack Hub Operator · Azure Virtual Desktop · Power Platform Solution Architect Expert · M365 Teams Support · AWS Solutions Architect Associate · AWS Cloud Practitioner · Linux Foundation KCNA · LFCA · Sun Certified Java Programmer (2000) · Borland Delphi Certified Developer (1997, 2000) · MCSD .NET (2005) · MCAD .NET (2003)
+
+📊 **Microsoft Learn transcript**: [705 modules · 145 learning paths · 485 hours](https://learn.microsoft.com/en-us/users/edneim/transcript/73k36s6o0y0or98)
+
 ## A short career arc
 
 `1995` Borland Delphi trainer → `1997` Web / COM / DCOM architect → `2002` Java + Microsoft team lead → `2009` SharePoint architect → `2011` Sr Premier Field Engineer (Microsoft) → `2020` Sr Azure Customer Engineer → `2022` CSA Engineering → `2023` Sr Cloud Solution Architect

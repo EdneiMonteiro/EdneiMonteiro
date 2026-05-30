@@ -1,5 +1,7 @@
 # Hi, I'm Ednei 👋
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--0765--4201-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-0765-4201)
+
 **Sr Cloud Solution Architect @ Microsoft** · Brasília, Brazil
 AI Landing Zone · Azure · GitHub Copilot · ~30 years building software
 

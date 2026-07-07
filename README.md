@@ -82,3 +82,8 @@ Microsoft Certified Trainer (multiple cycles since 2019) · DevOps Engineer Expe
 ---
 
 > Opinions are my own and do not represent Microsoft.
+
+## 🤝 Contributing
+
+Issue and pull request creation is restricted to collaborators. See
+[CONTRIBUTING.md](CONTRIBUTING.md) for details.

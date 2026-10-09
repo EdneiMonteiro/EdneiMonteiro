@@ -9,10 +9,10 @@ AI Landing Zone · Azure · GitHub Copilot · ~30 years building software
 
 ## About
 
-- 14+ years at Microsoft — Sr CSA → CSA Engineering → Sr Azure Customer Engineer → Sr Premier Field Engineer
+- 14+ years at Microsoft: Sr CSA
 - ~30 years across architecture, development, support and enablement
 - Bilingual: Português (nativo) · English (full professional)
-- Past instructor: **SUN Microsystems Official Java Instructor**, Visual Basic, Visual InterDev — plus internal Power Platform and Azure mentoring tracks
+- Past instructor: **SUN Microsystems Official Java Instructor**, Visual Basic, Visual InterDev - plus internal Power Platform and Azure mentoring tracks
 
 ## What I'm working on now
 

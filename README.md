@@ -43,11 +43,17 @@ AI Landing Zone · Azure · GitHub Copilot · ~30 years building software
 
 ## Certifications
 
+**Active — Microsoft AI & agents**
+Azure AI Engineer Associate · Azure AI Apps and Agents Developer Associate · Machine Learning Operations Engineer Associate · AI Agent Builder Associate
+
+**Microsoft AI leadership & adoption** (non-expiring credentials)
+AI Transformation Leader · AI Business Professional · Copilot and Agent Administration Fundamentals (Microsoft 365)
+
 **Active — Microsoft Azure**
 Solutions Architect Expert · Administrator Associate · Developer Associate · Network Engineer Associate
 
 **Active — GitHub**
-Foundations · Actions · Advanced Security · Administration · Copilot
+Agentic AI Developer · Foundations · Actions · Advanced Security · Administration · Copilot
 
 **Active — Linux Foundation**
 Kubernetes Fundamentals · Containers Fundamentals · Cloud Native Essentials · Open Source IT
@@ -56,9 +62,11 @@ Kubernetes Fundamentals · Containers Fundamentals · Cloud Native Essentials ·
 Azure AI · Azure Data · Azure · M365 · Power Platform · Dynamics 365 (+ CRM) · Security, Compliance & Identity · Microsoft Certified Educator · Microsoft Specialist (Programming in C# · HTML5/JS/CSS3 · Azure Infrastructure) · MCP · MCTS / MCITP SharePoint 2010
 
 **Selected history**
-Microsoft Certified Trainer (multiple cycles since 2019) · DevOps Engineer Expert · AI Engineer Associate · Identity & Access Administrator · Azure Security Engineer · Azure Stack Hub Operator · Azure Virtual Desktop · Power Platform Solution Architect Expert · M365 Teams Support · AWS Solutions Architect Associate · AWS Cloud Practitioner · Linux Foundation KCNA · LFCA · Sun Certified Java Programmer (2000) · Borland Delphi Certified Developer (1997, 2000) · MCSD .NET (2005) · MCAD .NET (2003)
+Microsoft Certified Trainer (multiple cycles since 2019) · DevOps Engineer Expert · Identity & Access Administrator · Azure Security Engineer · Azure Stack Hub Operator · Azure Virtual Desktop · Power Platform Solution Architect Expert · M365 Teams Support · AWS Solutions Architect Associate · AWS Cloud Practitioner · Linux Foundation KCNA · LFCA · Sun Certified Java Programmer (2000) · Borland Delphi Certified Developer (1997, 2000) · MCSD .NET (2005) · MCAD .NET (2003)
 
-📊 **Microsoft Learn transcript**: [705 modules · 145 learning paths · 485 hours](https://learn.microsoft.com/en-us/users/edneim/transcript/73k36s6o0y0or98)
+📊 **Microsoft Learn transcript** (snapshot: **October 9, 2026**): [793 modules · 169 learning paths · 562 hours 46 minutes](https://learn.microsoft.com/en-us/users/edneim/transcript/73k36s6o0y0or98)
+
+**46 active certifications · 98 exam passes** recorded in Microsoft Learn.
 
 ## A short career arc
 

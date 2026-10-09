@@ -43,6 +43,10 @@ AI Landing Zone · Azure · GitHub Copilot · ~30 years building software
 
 ## Certifications
 
+![Microsoft and GitHub certification badges](assets/certification-badges.png)
+
+*Selected Microsoft and GitHub certification badges, including current and legacy credentials.*
+
 **Active — Microsoft AI & agents**
 Azure AI Engineer Associate · Azure AI Apps and Agents Developer Associate · Machine Learning Operations Engineer Associate · AI Agent Builder Associate
 
